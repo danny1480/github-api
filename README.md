@@ -2,8 +2,6 @@
 
 API's that interacts with GitHub
 
-## Use your own Github Access Token in .env file
-
 ## Install 
 
 ```
@@ -20,6 +18,12 @@ npm start (server will run at port:3000)
 
 ```
 npx mocha
+```
+
+## To post in an issue on github 
+
+```
+Use your own Github Personal Access Token in .env file
 ```
 
 ## License
